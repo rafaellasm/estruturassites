@@ -1,0 +1,36 @@
+
+body {
+    background-color: beige;
+}
+
+
+#Titulo {
+    color: #e5989b;
+}
+
+.Diasdasemana {
+    color: #b5838d;
+}
+
+.Segunda {
+    background-color: #e5989b;
+    border: black 2px solid;
+}
+
+.Terca {
+    background-color: #e5989b;
+    border: black 2px solid; 
+}
+
+.Quarta {
+    background-color: #e5989b;
+    border: black 2px solid;
+}
+
+.Soft {
+    color: #ef476f;
+}
+
+.Git {
+    color: #ef476f;
+}
